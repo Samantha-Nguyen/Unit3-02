@@ -1,0 +1,38 @@
+* {
+  text-align: center;
+}
+
+#background {
+  background-color: #ccccff;
+}
+
+#h {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+#p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #383894;
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 63%;
+  color: #383894
+}
+
+.div {
+  width: 200px;
+  border: 15px solid #fff;
+  padding: 30px;
+  margin: 10px;
+  background-color: #e6e6ff;
+}

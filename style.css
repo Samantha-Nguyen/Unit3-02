@@ -3,36 +3,56 @@
 }
 
 #background {
-  background-color: #ccccff;
+  background-color: #ccf;
 }
 
 #h {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-#image {
+#img {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 10%;
+  width: 100%;
 }
 
-#p {
+.p {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #383894;
 }
 
-.table {
+.t {
   margin-left: auto;
   margin-right: auto;
-  width: 63%;
-  color: #383894
+  width: 60%;
+  color: #383894;
 }
 
-.div {
+.image {
   width: 200px;
-  border: 15px solid #fff;
-  padding: 30px;
+  border: 15px double #e6e6ff;
+  padding: 20px;
+  margin: 5px;
+  background-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text {
+  width: 310px;
+  border: 5px outset #fff;
+  padding: 25px;
   margin: 10px;
   background-color: #e6e6ff;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table {
+  width: 600px;
+  border: 15px solid #fff;
+  padding: 25px;
+  margin: 10px;
+  background-color: #e6e6ff;
+  margin-left: auto;
+  margin-right: auto;
 }
